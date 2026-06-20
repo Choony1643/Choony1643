@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Choony
 
-<!--
-**Choony1643/Choony1643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SAP Operations by day · Guitar newbie by night 🎸
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About me
+
+- 💼 SAP Operations at a trading company
+- 🌱 Currently learning: Electric Guitar · Claude Code · AI in SAP
+- ✍️ Calligraphy · City Walk · Exploring new things
+
+---
+
+## ⚡ What I'm working on
+
+- Exploring AI + SAP business use cases with my team
+- Experimenting with Claude Code on real projects
+- Building a personal blog with Jekyll + GitHub Pages
+
+---
+
+## 🎯 A few things I enjoy
+
+- Practicing calligraphy — not a master, but I enjoy it
+- Wandering around the city and discovering new spots
+- Trying new things — even if it means failing 60% of the time
+
+---
+
+> "Practice makes progress." — Choony
+
+📫 wchuny1643@outlook.com
